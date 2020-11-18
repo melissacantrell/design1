@@ -16,10 +16,29 @@ h1 {
     text-align:center;
     margin-top: 0px;
   }
-  p{
+  p {
     font-family: 'Cabin', sans-serif;
     margin-top: 0px;
-    margin-left: 220px;
+    margin-left: 200px;
     text-align: left;
     vertical-align: left;
   }
+	/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff4d7d;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
