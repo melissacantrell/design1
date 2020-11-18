@@ -6,7 +6,8 @@ body {
 h1 {
   font-family: 'Righteous', cursive;
   text-align:center;
-  font-size: 18em;
+  font-size: 16em;
+	line-height: 1em;
   color:#ff4d7d;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -29,12 +30,13 @@ h1 {
 		font-size: 18px;
 		outline-color: #ff4d7d;
 		outline-style:solid;
-		outline-width: thin;
+		outline-width: medium;
 		display: inline-block;
-		margin-left: 104px;
+		margin-left: 93px;
 		margin-right: 0px;
-		margin-top: 80px;
-		margin-bottom: 20px;
+		margin-top: 90px;
+		margin-bottom: 40px;
+		padding: 8px;
 }
 	/* unvisited link */
 a:link {
