@@ -1,0 +1,25 @@
+body {
+	margin:0;
+	background-color:black;
+	}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  text-align:center;
+  font-size: 18em;
+  color:#ff4d7d;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  }
+  h2 {
+    font-family: 'Cabin', cursive;
+    text-align:center;
+    margin-top: 0px;
+  }
+  p{
+    font-family: 'Cabin', sans-serif;
+    margin-top: 0px;
+    margin-left: 220px;
+    text-align: left;
+    vertical-align: left;
+  }
