@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title> “Good Vibes Manifesto” </title>
+        <link rel="stylesheet" href="melissa_site/css/styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=Modak&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Cabin&family=Modak&family=Righteous&display=swap" rel="stylesheet">
+  </head>
+
+    <body>
+        <div>
+            <h1> FYI </h1>
+            <h2> You're mad. Bonkers. Off your head...But I'll tell you a secret...Some of the best people are. </h2>
+
+            <p> Reach for the sky. </p>
+
+            <p> All it takes is faith and trust. </p>
+
+            <p> Remember you're the one who can fill the world with sunshine. </p>
+
+            <p> Hakuna Matata (it means no worries) </p>
+
+            <p> Things will look better in the morning. </p>
+
+            <p> Life is a journey to be experienced, not a problem to be solved. </p>
+
+            <p> You must not let anyone define your limits because of where you came from. Your only limit is your soul. </p>
+
+            <p> Always let your conscience be your guide. </p>
+
+            <p> In every job that must be done there is an element of fun. </p>
+
+            <p> Giving up is for rookies. </p>
+
+            <p> A dream is a wish your heart makes. </p>
+
+            <p> Nothing's Impossible. </p>
+
+            <p> If watching is all you're gonna do, then you're gonna watch your life go by without ya. </p>
+
+            <p> Good friends will help you until you're unstuck. </p>
+
+            <p> If everybody got somebody by the hand, maybe everyone could learn to love and understand. </p>
+
+            <a href= "https://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/">Click here to learn more</a>
+
+    </body>
+
+
+</html>
