@@ -6,20 +6,24 @@ body {
 h1 {
   font-family: 'Modak', cursive;
   text-align:center;
-  font-size: 18em;
+  font-size: 20em;
   color:#ff4d7d;
-  margin-top: 0px;
+	line-height: 1em;
+  margin-top: 20px;
   margin-bottom: 0px;
   }
   h2 {
     font-family: 'Cabin', cursive;
     text-align:center;
+		text-transform: uppercase;
     margin-top: 0px;
+		margin-bottom: 60px;
   }
   p{
     font-family: 'Cabin', sans-serif;
-    margin-top: 0px;
-    margin-left: 250px;
+    margin-top: 20px;
+    margin-left: 270px;
+		margin-right: 260px;
     text-align: left;
     vertical-align: left;
   }
