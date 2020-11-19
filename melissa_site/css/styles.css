@@ -18,13 +18,15 @@ h1 {
 		text-transform: uppercase;
     margin-top: 0px;
 		margin-bottom: 60px;
-  }
+		margin-left: 268px;
+		margin-right: 268px;
+		}
   p{
     font-family: 'Cabin', sans-serif;
 		font-size: 1.4em;
     margin-top: 20px;
-    margin-left: 240px;
-		margin-right: 230px;
+    margin-left: 268px;
+		margin-right: 268px;
     text-align: left;
     vertical-align: left;
   }
