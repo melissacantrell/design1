@@ -12,8 +12,8 @@
       <div>
           <h1> Good Vibes Only </h1>
           <a href= "melissa_site/cantrell_melissa_manifesto_5.html"> Good Vibes Manifesto </a>
-          <a href= "melissa_site/cantrell_melissa_manifesto_4.html"> More Good Vibes </a>
-          <a href= "melissa_site/cantrell_melissa_manifesto_3.html"> Even More Good Vibes </a>
+          <a href= "melissa_site/cantrell_melissa_manifesto_4.html"> Design Process </a>
+          <a href= "melissa_site/cantrell_melissa_manifesto_3.html"> More Good Vibes </a>
           <a href= "melissa_site/cantrell_melissa_manifesto_2.html"> Better Vibes </a>
           <a href= "melissa_site/cantrell_melissa_manifesto_1.html"> The Best Vibes</a>
   </body>
