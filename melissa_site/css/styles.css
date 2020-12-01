@@ -30,3 +30,11 @@ h1 {
     text-align: left;
     vertical-align: left;
   }
+	#one{
+    padding-left: 400px;
+    font-size: 25px;
+}
+#two{
+		padding-right: 400px;
+		font-size: 40px;
+}
